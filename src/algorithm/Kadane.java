@@ -12,7 +12,6 @@ public class Kadane {
 //                prevSum += arr[j];
 //                if(prevSum>sum){
 //                    sum = prevSum;
-//                }
 //
 //            }
 //        }

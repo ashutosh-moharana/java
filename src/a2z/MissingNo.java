@@ -7,11 +7,9 @@ public class MissingNo {
         int len = nums.length;
         int origArrSum = (len*(len+1))/2;
 
-
         for(int elem: nums){
             sum += elem;
         }
-
          System.out.println(origArrSum - sum);
     }
 }
